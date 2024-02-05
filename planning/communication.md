@@ -19,7 +19,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Google Meet**:
 - **Zoom**:
 - **Slack**
-  
+
 ---
 
 ## Availability
@@ -28,19 +28,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Monday | Tuesday | Wednesday |
-|:---------:|:------:|:-------:|:---------:|
-| _Mykhailo_| 09 - 18| 09 - 18 | 09 - 18   |
-| _Lishan_  | 09 - 18| 09 - 18 | 09 - 18   |
-| _Seddouki_| 09 - 18| 09 - 18 | 09 - 18   |
-| _Etefa_   | 09 - 18| 09 - 18 | 09 - 18   |
+|    Day     | Monday  | Tuesday | Wednesday |
+| :--------: | :-----: | :-----: | :-------: |
+| _Mykhailo_ | 09 - 18 | 09 - 18 |  09 - 18  |
+|  _Lishan_  | 09 - 18 | 09 - 18 |  09 - 18  |
+| _Seddouki_ | 09 - 18 | 09 - 18 |  09 - 18  |
+|  _Etefa_   | 09 - 18 | 09 - 18 |  09 - 18  |
 
 ### How many hours everyone has per day
 
 - Mykhailo: _8h_;
-- Lishan  : _8h_;
+- Lishan : _8h_;
 - Seddouki: _8h_;
-- Etefa   : _8h_;
+- Etefa : _8h_;
 
 ## Asking for Help
 
