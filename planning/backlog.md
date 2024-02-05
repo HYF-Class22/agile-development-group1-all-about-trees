@@ -17,8 +17,6 @@
         about trees._
 - [ ] **Further Reading Section:** Present an aside with additional links for
       users interested in deeper exploration.
-  - [ ] _An aside with curated links should be available for those seeking
-        further insights._
 
 ## Should-Haves
 
