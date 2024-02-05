@@ -1,55 +1,78 @@
-# Project Name
+# All-about-trees Group 1
 
-<!-- describe your project -->
+In this present project, we seek to provide an educational and informative
+website that provides basic to intermediate information about the world of
+trees. The content of this website answers common questions in simple terms and
+clear illustrations. The main themes of the website revolve around these topics:
+
+- Basic elements that trees need to make their own food
+- Essential pesticides to protect the trees from bugs
+- Types of trees that grow indoors
+- Trees that have higher lifespan
+- How trees seed and grow with simple illustrations?
+
+  The website is not intended for experts or advanced topics. Basically, it is
+  an introductory website for novice people with no prior experience
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+### 1. Create a New Repository from the Template `template-html-css`
+
+- [ ] Create a new repository using the `template-html-css` template.
+
+### 2. Add Collaborators
+
+- [ ] Invite collaborators to join the repository and contribute to the project.
+
+### 3. Enable GitHub Pages
+
+- [ ] Turn on GitHub Pages to showcase the project's static content.
+- [ ] Grant collaborators `write` access to ensure they can make necessary
+      updates.
+
+### 4. Branch Protection for `master`
+
+- [ ] Implement branch protection for the `master` branch to ensure code
+      integrity.
 
 ---
 
-<!-- copy this section once for each must-have user story -->
-
-## user story
+## Title
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-> "as a ... i can ... so that ..."
+### As a user, I should have the opportunity to see the title
 
-<!-- write any extra notes or description -->
+- add header with 'h1'
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- align the header to the center of the page
 
-### Logic: user story
+## Logos
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### As a user, I should have the opportunity to see the logos add 2 images
 
-### Interface: user story
+- add keyframe and other needs properties
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Navigation bar
 
-### Interaction: user story
+### As a user, I should have the opportunity to see the Navigation bar
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Create a simple navbar with 3 links
+- add needs css properties
 
-### Documentation: user story
+## Card
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### As a user, I should have to see a display card with subtitle and description
+
+- Add all the content with the description, including headings, images, and
+  paragraphs
+- Add all the necessary tags for the section, including fonts and properties
+
+## Footer with social media links
+
+### As a user, I should have to see a social media links
+
+- add 'footer' with 3 needs links(`facebook`, `Instagram`, `Tweeter`)
+- add all needs css properties agree with design
