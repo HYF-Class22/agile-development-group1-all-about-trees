@@ -17,9 +17,9 @@ adequate answers to their queries
   extensively which make him unable to understand their implications in simple
   terms.
 - **Scenario 1**: Mike wants to plant a tree in a pot for his biology class
-  project. He really loves to plant, but he does not know to do so.
-  He needs simple and clear illustrations, so that he could plant successfully a
-  plant within a month.
+  project. He really loves to plant, but he does not know to do so. He needs
+  simple and clear illustrations, so that he could plant successfully a plant
+  within a month.
 
 ---
 
