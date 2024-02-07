@@ -10,6 +10,8 @@ adequate answers to their queries
 
 ## Their Roles
 
+### Junior-School-Student
+
 - **Bio**: Mike is 12-year-old kid working on his biology class project.
 - **Needs/Goals**: He needs to figure out what elements trees need to survive in
   order to plant a tree for his biology class project
@@ -22,6 +24,8 @@ adequate answers to their queries
   within a month.
 
 ---
+
+### Newbie Gardener
 
 - **Bio**: Chris is a novice gardener who takes care of indoor and outdoor
   trees.
@@ -36,6 +40,8 @@ adequate answers to their queries
   know their names so that he could search for them locally
 
 ---
+
+### Retired Elderly Woman
 
 - **Bio**: Suzanne is an elderly person who loves to take care of her garden.
 - **Needs/Goals**: She needs to learn about the pesticides that could dispose of
