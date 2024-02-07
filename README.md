@@ -42,7 +42,7 @@ introductory website for novice people with no prior experience
 
 ## Screenshots
 
-![Wireframe](./planning/wireframe.jpg)
+![Wireframe](./planning/wireframe.png)
 
 ## Technologies
 
