@@ -37,10 +37,9 @@ design.
 ## Wireframe(s)
 
 The wireframe of the project: All-about-trees
-
-![Wireframe](/planning/Wireframe.png)
+![Wireframe](/planning/wireframe.png)
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
-You can click on the link below to check the wireframe
-<https://www.mediafire.com/file/0b51kazvw25hlcq/Wireframe.png/file>
+You can click on the link below to check the wireframe:
+<https://www.mediafire.com/file/r21ovygoa3ve0yh/wireframe.png/file>
