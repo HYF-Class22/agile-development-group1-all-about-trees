@@ -30,3 +30,33 @@ body {
 .interesting-things {
   list-style-type: square;
 }
+
+.top-divider {
+  border-style: solid none none;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-20px);
+  }
+
+  80% {
+    transform: translateY(-10px);
+  }
+}
+
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
