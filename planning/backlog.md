@@ -4,19 +4,11 @@
 
 \*Home Page\*\*
 
-- [ ] **User Accessibility:** Ensure clear visibility of the page title at the
-      top.
-  - [ ] _A prominent title should be presented at the header of the web page._
-- [ ] **Project Introduction:** Provide a concise section beneath the navbar
-      outlining the project's objectives.
-  - [ ] _There should be a dedicated section under the navigation bar detailing
-        the project's goals._
-- [ ] **Information on Trees:** Deliver comprehensive content on trees with
-      relevant information and useful links.
-  - [ ] _Include a main section with valuable information and associated links
-        about trees._
-- [ ] **Further Reading Section:** Present an aside with additional links for
-      users interested in deeper exploration.
+- As a user, I have to see the 'title'.
+- As a user, I have to see the 'logos' add 2 images
+- As a user, I have to see the Navigation bar
+- As a user, I have to see a display card with a subtitle and a description
+- As a user, I have to see a social media links in the 'footer'
 
 ## Should-Haves
 
