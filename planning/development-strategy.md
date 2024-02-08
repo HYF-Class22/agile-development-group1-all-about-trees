@@ -43,7 +43,7 @@ clear illustrations. The main themes of the website revolve around these topics:
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-### As a user, I should have the opportunity to see the title
+### As a user, I have to see the 'title'
 
 - add header with 'h1'
 
@@ -51,28 +51,28 @@ clear illustrations. The main themes of the website revolve around these topics:
 
 ## Logos
 
-### As a user, I should have the opportunity to see the logos add 2 images
+### As a user, I have to see the 'logos' add 2 images
 
 - add keyframe and other needs properties
 
 ### Navigation bar
 
-### As a user, I should have the opportunity to see the Navigation bar
+### As a user, I have to see the Navigation bar
 
 - Create a simple navbar with 3 links
 - add needs css properties
 
 ## Card
 
-### As a user, I should have to see a display card with subtitle and description
+### As a user, I have to see a display card with a subtitle and a description
 
-- Add all the content with the description, including headings, images, and
-  paragraphs
-- Add all the necessary tags for the section, including fonts and properties
+- Add subtitle and the content with a description, and list of links
+
+- Add all the necessary fonts and properties
 
 ## Footer with social media links
 
-### As a user, I should have to see a social media links
+### As a user, I have to see a social media links
 
 - add 'footer' with 3 needs links(`facebook`, `Instagram`, `Tweeter`)
 - add all needs css properties agree with design
