@@ -38,29 +38,37 @@ introductory website for novice people with no prior experience
 
 ## General info
 
-> A short description
+> A simple website about trees the objective is to learn project planning and
+> principles of agile
 
 ## Screenshots
 
-![Wireframe](./planning/wireframe.png)
+![Wireframe](./planning/all%20about%20trees.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML5
+- CSS3
 
 ## Setup
 
-- `npm run start`
+- clone the repo
+- npm install
+- enjoy
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<aside id="extra-info" class="aside-info">
+  <p class="aside-text">
+    To learn <s>everything</s> a lot more about trees,
+    <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
+      >visit this link</a
+    >
+  </p>
+</aside>
 ```
 
 ## Features
@@ -78,7 +86,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
@@ -86,7 +94,9 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [Mykhailo](https://github.com/MishaShevchenko),
+[Lishan](https://github.com/Lishan6), [Etefa](https://github.com/edinssa),
+[Seddouki](https://github.com/younes8888)
 
 ## Instructions for use
 
