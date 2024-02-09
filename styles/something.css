@@ -23,12 +23,12 @@ body {
   font-style: italic;
 }
 
-.aside-text {
-  font-family: monospace;
-}
-
 .interesting-things {
   list-style-type: square;
+}
+
+.aside-text {
+  font-family: monospace;
 }
 
 .top-divider {
