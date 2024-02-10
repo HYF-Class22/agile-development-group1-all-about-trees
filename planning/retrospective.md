@@ -2,20 +2,14 @@
 
 ## Stop Doing
 
+- Stope avoiding difficult conversations within the team
+
 ## Continue Doing
 
-## Start Doing
+- communicate about the schedule.
+- Continue holding regular team meetings to keep everyone informed and aligned
+- Be Committed
 
 ## Lessons Learned
 
----
-
-## Strategy vs. Board
-
-### What parts of your plan went as expected?
-
-### What parts of your plan did not work out?
-
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
+- Effective communication is crucial for successful collaboration within a group
