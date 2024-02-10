@@ -38,8 +38,7 @@ introductory website for novice people with no prior experience
 
 ## General info
 
-> A simple website about trees the objective is to learn project planning and
-> principles of agile
+> The project aims to create an educational website offering basic to intermediate information about trees. It covers topics such as the essential elements for tree growth, pesticides for pest protection, indoor tree types, long-living trees, and the process of tree seeding and growth through simple illustrations. The website targets novice individuals without prior experience in the subject, providing clear explanations and illustrations to answer common questions. It is not designed for experts or advanced discussions.
 
 ## Screenshots
 
