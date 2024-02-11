@@ -23,15 +23,15 @@ introductory website for novice people with no prior experience
 - [All-about-trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Website Prototype]()
-  - [Wireframe](#screenshots)
+  - [Website Prototype](#website-prototype)
+  - [Wireframe](#wireframe)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Team Members](#contact)
+  - [Team Members](#team-members)
   - [Instructions for use](#instructions-for-use)
-  
+
 ## General info
 
 > The project aims to create an educational website offering basic to
@@ -42,9 +42,9 @@ introductory website for novice people with no prior experience
 > in the subject, providing clear explanations and illustrations to answer
 > common questions. It is not designed for experts or advanced discussions.
 
-## Screenshots
+## Website Prototype
 
-![Wireframe](./planning/all%20about%20trees.png)
+![Website Prototype](./planning/website%20prototype.png)
 
 ## Wireframe
 

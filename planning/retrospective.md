@@ -24,16 +24,24 @@
 - A healthy work environment wards off misunderstanding
 - Deploying a proactive approach speeds up our progress
 
-# Strategy vs. Board
+## Strategy vs. Board
 
 ## What parts of the your plan went as expected?
 
-In general, everything went smoothly as planned with slight challenges. We successfully divided the tasks and were executed in a timely manner. We succeeded in defining out projects and its limitations, created a relevant wireframe that takes into account the user-stories and set a time frame to complete our tasks accordingly.
+In general, everything went smoothly as planned with slight challenges. We
+successfully divided the tasks and were executed in a timely manner. We
+succeeded in defining out projects and its limitations, created a relevant
+wireframe that takes into account the user-stories and set a time frame to
+complete our tasks accordingly.
 
 ## What parts of your plan did not work out?
 
-Basically, everything went well as expected thanks to our holistic approach that encompasses various aspects of the project and forecasts potential obstacles that might slow or hinder our progress.  
+Basically, everything went well as expected thanks to our holistic approach that
+encompasses various aspects of the project and forecasts potential obstacles
+that might slow or hinder our progress.
 
 ## Did you need to add things that weren’t in your strategy? Or remove extra steps?
 
-No, we didn’t. We stuck to our project strategy as we planned in the first place. No such challenges were encountered to make modifications to our strategy.
+No, we didn’t. We stuck to our project strategy as we planned in the first
+place. No such challenges were encountered to make modifications to our
+strategy.
