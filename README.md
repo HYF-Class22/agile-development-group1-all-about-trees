@@ -23,7 +23,7 @@ introductory website for novice people with no prior experience
 - [All-about-trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Website Prototype](#website-prototype)
+  - [Website prototype](#website-prototype)
   - [Wireframe](#wireframe)
   - [Technologies](#technologies)
   - [Setup](#setup)
@@ -44,7 +44,7 @@ introductory website for novice people with no prior experience
 
 ## Website Prototype
 
-![Website Prototype](./planning/website%20prototype.png)
+![website Prototype](./planning/website%20prototype.png)
 
 ## Wireframe
 
