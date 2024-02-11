@@ -44,7 +44,7 @@ introductory website for novice people with no prior experience
 
 ## Website Prototype
 
-![website Prototype](./planning/website%20prototype.png)
+![website Prototype](./planning/website-prototype.png)
 
 ## Wireframe
 
