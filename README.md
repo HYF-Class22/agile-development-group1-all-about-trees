@@ -23,26 +23,32 @@ introductory website for novice people with no prior experience
 - [All-about-trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
+  - [Website Prototype]()
+  - [Wireframe](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Contact](#contact)
+  - [Team Members](#contact)
   - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
-
+  
 ## General info
 
-> The project aims to create an educational website offering basic to intermediate information about trees. It covers topics such as the essential elements for tree growth, pesticides for pest protection, indoor tree types, long-living trees, and the process of tree seeding and growth through simple illustrations. The website targets novice individuals without prior experience in the subject, providing clear explanations and illustrations to answer common questions. It is not designed for experts or advanced discussions.
+> The project aims to create an educational website offering basic to
+> intermediate information about trees. It covers topics such as the essential
+> elements for tree growth, pesticides for pest protection, indoor tree types,
+> long-living trees, and the process of tree seeding and growth through simple
+> illustrations. The website targets novice individuals without prior experience
+> in the subject, providing clear explanations and illustrations to answer
+> common questions. It is not designed for experts or advanced discussions.
 
 ## Screenshots
 
 ![Wireframe](./planning/all%20about%20trees.png)
+
+## Wireframe
+
+![Wireframe](./planning/wireframe.png)
 
 ## Technologies
 
@@ -50,38 +56,13 @@ introductory website for novice people with no prior experience
 - VSC code
 - HTML5
 - CSS3
+- Markdown
 
 ## Setup
 
-- clone the repo
+- Clone the repo
 - npm install
-- enjoy
-
-## Code Examples
-
-```html
-<aside id="extra-info" class="aside-info">
-  <p class="aside-text">
-    To learn <s>everything</s> a lot more about trees,
-    <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
-      >visit this link</a
-    >
-  </p>
-</aside>
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
+- Get started!
 
 ## Status
 
@@ -91,11 +72,12 @@ Project is: _done_
 
 Project by freeCodeCamp.org
 
-## Contact
+## Team Members
 
-By [Mykhailo](https://github.com/MishaShevchenko),
-[Lishan](https://github.com/Lishan6), [Etefa](https://github.com/edinssa),
-[Seddouki](https://github.com/younes8888)
+- [Mykhailo](https://github.com/MishaShevchenko)
+- [Lishan](https://github.com/Lishan6)
+- [Etefa](https://github.com/edinssa)
+- [Seddouki](https://github.com/younes8888)
 
 ## Instructions for use
 
